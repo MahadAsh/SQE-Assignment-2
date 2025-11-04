@@ -1,0 +1,6 @@
+input1,input2,operation,expected
+2,3,ADD,5
+5,2,DIV,2.5
+1000,1000,MUL,1000000
+0,0,ADD,0
+-5,3,SUB,-8

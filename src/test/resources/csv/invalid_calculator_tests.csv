@@ -1,0 +1,4 @@
+input1,input2,operation,expected
+1,0,DIV,IllegalArgumentException
+NaN,1,ADD,IllegalArgumentException
+1,NaN,MUL,IllegalArgumentException

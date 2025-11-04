@@ -1,0 +1,8 @@
+com\example\app\StringUtilsSlowTest.class
+com\example\app\AccountServiceSlowTest.class
+com\example\app\CalculatorTest.class
+com\example\app\CalculatorTestTest.class
+com\example\app\CalculatorParameterizedTest.class
+com\example\app\CalculatorSlowTest.class
+com\example\app\AccountServiceTest.class
+com\example\app\StringUtilsTest.class
